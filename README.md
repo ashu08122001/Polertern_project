@@ -1,16 +1,22 @@
-# polertern_project
+# Flutter Splash and Home Screen Project
 
-A new Flutter project.
+## Project Description
 
-## Getting Started
+This Flutter project includes a splash screen, a home screen with a swipeable carousel, a share feature, and a responsive bottom action section.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Splash Screen**: Displays a static image when the app starts.
+- **Home Screen**:
+  - **Carousel**: Swipeable image carousel.
+  - **Share Button**: Captures and shares a screenshot of the current screen.
+  - **Swipe Action**: Slider with "Swipe to RSVP" text, which changes to "RSVP'd" on completion and shows a success screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+1. **Flutter SDK**: [Download Flutter](https://flutter.dev/docs/get-started/install) and follow the installation instructions.
+2. **Android Studio**: [Download Android Studio](https://developer.android.com/studio) and set up the Android SDK.
+3. **Dart SDK**: Comes with Flutter.
+
